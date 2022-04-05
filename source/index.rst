@@ -7,7 +7,7 @@ Guide:
 .. toctree::
    :maxdepth: 2
 
-   article_01
+   article_02
    extendvolumelinux
 
 
