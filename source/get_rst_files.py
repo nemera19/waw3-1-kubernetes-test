@@ -31,17 +31,13 @@ def get_files(urls_list: list) -> dict:
         gh = Github()
         repo = gh.get_repo(repo_name)
         contents_list = repo.get_contents(dir_name)
-        github_raw_url = "https://raw.githubusercontent.com"
+        github_raw = url.replace("github", "raw.githubusercontent").replace("blob", "tree")
         for content in contents_list:
             if content.type == "file":
                 if ".rst" in content.name:
                     repos_url[content.name.split('.')[0]] = content.html_url
                 github_file_url = (
-                    github_raw_url
-                    + "/"
-                    + repo.full_name
-                    + "/master/"
-                    + dir_name
+                    github_raw.replace("tree/", "")
                     + "/"
                     + content.path.replace(" ", "%20").split("/")[-1]
                 )
