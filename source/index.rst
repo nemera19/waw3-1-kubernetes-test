@@ -7,8 +7,8 @@ Guide:
 .. toctree::
    :maxdepth: 2
 
-   article_02
-   in_dex.rst
+   extendvolumelinux
+   in_dex
 
 
 Indices and tables
