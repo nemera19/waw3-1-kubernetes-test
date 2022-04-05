@@ -8,7 +8,7 @@ Guide:
    :maxdepth: 2
 
    article_02
-   extendvolumelinux
+   in_dex.rst
 
 
 Indices and tables
