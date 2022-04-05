@@ -43,6 +43,7 @@ exclude_patterns = []
 urls_dict = get_files(
     [
         "https://github.com/CloudFerro/cf3-doc/tree/main/source/datavolume/extendvolumelinux",
+        "https://github.com/CloudFerro/kubernetes-doc/blob/main/source/article_02",
     ]
 )
 
