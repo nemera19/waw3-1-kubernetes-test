@@ -8,7 +8,7 @@ Guide:
    :maxdepth: 2
 
    extendvolumelinux
-   general
+   startavmfromasnapshot
    How-to-Create-a-Kubernetes-Cluster-Using-Cloudferro-OpenStack-Magnum
    How-to-Create-a-Kubernetes-Cluster-Template-Using-Cloudferro-OpenStack-Magnum
    How-To-Install-OpenStack-and-Magnum-Clients-for-Command-Line-Interface-to-Cloudferro-Horizon
