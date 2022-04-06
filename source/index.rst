@@ -9,6 +9,7 @@ Guide:
 
    extendvolumelinux
    in_dex
+   How-to-Create-a-Kubernetes-Cluster-Using-Cloudferro-OpenStack-Magnum
 
 
 Indices and tables
