@@ -43,7 +43,21 @@ exclude_patterns = []
 urls_dict = get_files(
     [
         "https://github.com/CloudFerro/cf3-doc/tree/main/source/datavolume/extendvolumelinux",
+        "https://github.com/CloudFerro/kubernetes-doc/blob/main/source/article_01",
         "https://github.com/CloudFerro/kubernetes-doc/blob/main/source/article_02",
+        "https://github.com/CloudFerro/kubernetes-doc/blob/main/source/article_03",
+        "https://github.com/CloudFerro/kubernetes-doc/blob/main/source/article_04",
+        "https://github.com/CloudFerro/kubernetes-doc/blob/main/source/article_05",
+        "https://github.com/CloudFerro/kubernetes-doc/blob/main/source/article_06",
+        "https://github.com/CloudFerro/kubernetes-doc/blob/main/source/article_07",
+        "https://github.com/CloudFerro/kubernetes-doc/blob/main/source/article_08",
+        "https://github.com/CloudFerro/kubernetes-doc/blob/main/source/article_09",
+        "https://github.com/CloudFerro/kubernetes-doc/blob/main/source/article_11",
+        "https://github.com/CloudFerro/kubernetes-doc/blob/main/source/article_12",
+        "https://github.com/CloudFerro/kubernetes-doc/blob/main/source/article_13",
+        "https://github.com/CloudFerro/kubernetes-doc/blob/main/source/article_14",
+        "https://github.com/CloudFerro/kubernetes-doc/blob/main/source/article_15",
+        "https://github.com/CloudFerro/kubernetes-doc/blob/main/source/article_17",
     ]
 )
 
