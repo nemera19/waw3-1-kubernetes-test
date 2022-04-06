@@ -9,7 +9,6 @@ Guide:
 
    extendvolumelinux
    How-to-Create-a-Kubernetes-Cluster-Using-Cloudferro-OpenStack-Magnum
-   How-to-Create-a-Kubernetes-Cluster-Using-OpenStack-Magnum
    How-to-Create-a-Kubernetes-Cluster-Template-Using-Cloudferro-OpenStack-Magnum
    How-To-Install-OpenStack-and-Magnum-Clients-for-Command-Line-Interface-to-Cloudferro-Horizon
    How-To-Use-Command-Line-Interface-for-Kubernetes-Clusters-On-Cloudferro-OpenStack-Magnum
