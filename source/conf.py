@@ -45,6 +45,7 @@ urls_dict = get_files(
        "https://github.com/CloudFerro/cf3-doc/tree/main/source/datavolume/extendvolumelinux",
        "https://github.com/CloudFerro/cf3-doc/blob/main/source/general/startavmfromasnapshot",        
        "https://github.com/CloudFerro/kubernetes-doc/blob/main/source/How-to-Create-a-Kubernetes-Cluster-Using-Eumetsat-Elasticity-OpenStack-Magnum",
+       "https://github.com/CloudFerro/kubernetes-doc/blob/main/source/How-to-Create-a-Kubernetes-Cluster-Using-Eumetsat-Elasticity-OpenStack-Magnum",
  #     "https://github.com/CloudFerro/kubernetes-doc/blob/main/source/How-to-Create-a-Kubernetes-Cluster-Template-Using-Eumetsat-Elasticity-OpenStack-Magnum",
   #    "https://github.com/CloudFerro/kubernetes-doc/blob/main/source/How-To-Install-OpenStack-and-Magnum-Clients-for-Command-Line-Interface-to-Eumetsat-Elasticity-Horizon",
   #    "https://github.com/CloudFerro/kubernetes-doc/blob/main/source/How-To-Use-Command-Line-Interface-for-Kubernetes-Clusters-On-Eumetsat-Elasticity-OpenStack-Magnum",
