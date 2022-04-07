@@ -42,12 +42,12 @@ exclude_patterns = []
 
 urls_dict = get_files(
     [
-        "https://github.com/CloudFerro/cf3-doc/tree/main/source/datavolume/extendvolumelinux",
-        "https://github.com/CloudFerro/cf3-doc/blob/main/source/general/startavmfromasnapshot",
-        "https://github.com/CloudFerro/kubernetes-doc/blob/main/source/Volume-based-vs-Ephemeral-based-Storage-for-Kubernetes-Clusters-on-Cloudferro-OpenStack-Magnum",
-        "https://github.com/CloudFerro/kubernetes-doc/blob/main/source/How-to-Create-and-Return-a-Floating-IP-Address-on-Cloudferro-OpenStack-Magnum",
-        "https://github.com/CloudFerro/kubernetes-doc/blob/main/source/How-to-Use-Security-Groups-to-Tighten-Security-Using-Cloudferro-OpenStack-Magnum",
-        "https://github.com/CloudFerro/kubernetes-doc/blob/main/source/How-to-Create-a-Router-on-Cloudferro-OpenStack-Magnum",
+ #      "https://github.com/CloudFerro/cf3-doc/tree/main/source/datavolume/extendvolumelinux",
+ #      "https://github.com/CloudFerro/cf3-doc/blob/main/source/general/startavmfromasnapshot",
+ #       "https://github.com/CloudFerro/kubernetes-doc/blob/main/source/Volume-based-vs-Ephemeral-based-Storage-for-Kubernetes-Clusters-on-Cloudferro-OpenStack-Magnum",
+ #       "https://github.com/CloudFerro/kubernetes-doc/blob/main/source/How-to-Create-and-Return-a-Floating-IP-Address-on-Cloudferro-OpenStack-Magnum",
+ #       "https://github.com/CloudFerro/kubernetes-doc/blob/main/source/How-to-Use-Security-Groups-to-Tighten-Security-Using-Cloudferro-OpenStack-Magnum",
+ #       "https://github.com/CloudFerro/kubernetes-doc/blob/main/source/How-to-Create-a-Router-on-Cloudferro-OpenStack-Magnum",
         "https://github.com/CloudFerro/kubernetes-doc/blob/main/source/How-To-Create-and-Manage-Networks-on-Cloudferro-OpenStack-Magnum",
  #       "https://github.com/CloudFerro/kubernetes-doc/blob/main/source/How-to-Connect-Two-Instances-Through-a-Private-Network-on-Cloudferro-OpenStack-Magnum",
  #       "https://github.com/CloudFerro/kubernetes-doc/blob/main/source/Autoscaling-Kubernetes-Cluster-Resources-on-Cloudferro-OpenStack-Magnum",
