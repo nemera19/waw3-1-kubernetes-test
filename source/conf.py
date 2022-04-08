@@ -43,8 +43,7 @@ exclude_patterns = []
 urls_dict = get_files(
     [
        "https://github.com/CloudFerro/cf3-doc/tree/main/source/datavolume/extendvolumelinux",
-       "https://github.com/CloudFerro/cf3-doc/blob/main/source/general/startavmfromasnapshot",               
-       "https://github.com/CloudFerro/cf3-doc/blob/main/source/networking/createanetworkwithrouter/createanetworkwithrouter",             
+       "https://github.com/CloudFerro/cf3-doc/blob/main/source/general/startavmfromasnapshot",                         
  ]
 )
 
