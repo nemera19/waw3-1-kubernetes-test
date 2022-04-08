@@ -49,7 +49,7 @@ urls_dict = get_files(
       "https://github.com/CloudFerro/kubernetes-doc/blob/main/source/How-To-Install-OpenStack-and-Magnum-Clients-for-Command-Line-Interface-to-Eumetsat-Elasticity-Horizon",
       "https://github.com/CloudFerro/kubernetes-doc/blob/main/source/How-To-Use-Command-Line-Interface-for-Kubernetes-Clusters-On-Eumetsat-Elasticity-OpenStack-Magnum",
       "https://github.com/CloudFerro/kubernetes-doc/blob/main/source/How-To-Access-Kubernetes-Cluster-Post-Deployment-Using-Kubectl-On-Eumetsat-Elasticity-OpenStack-Magnum",
-  #    "https://github.com/CloudFerro/kubernetes-doc/blob/main/source/How-To-Create-API-Server-LoadBalancer-for-Kubernetes-Cluster-On-Eumetsat-Elasticity-OpenStack-Magnum",
+      "https://github.com/CloudFerro/kubernetes-doc/blob/main/source/How-To-Create-API-Server-LoadBalancer-for-Kubernetes-Cluster-On-Eumetsat-Elasticity-OpenStack-Magnum",
   #    "https://github.com/CloudFerro/kubernetes-doc/blob/main/source/How-To-Create-Floating-IP-for-Servers-on-Eumetsat-Elasticity-OpenStack-Magnum",
   #    "https://github.com/CloudFerro/kubernetes-doc/blob/main/source/Creating-Additional-Nodegroups-in-Kubernetes-Cluster-on-Eumetsat-Elasticity-OpenStack-Magnum",
   #    "https://github.com/CloudFerro/kubernetes-doc/blob/main/source/Autoscaling-Kubernetes-Cluster-Resources-on-Eumetsat-Elasticity-OpenStack-Magnum",
