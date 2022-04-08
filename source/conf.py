@@ -44,7 +44,9 @@ urls_dict = get_files(
     [
        "https://github.com/CloudFerro/cf3-doc/tree/main/source/datavolume/extendvolumelinux",
        "https://github.com/CloudFerro/cf3-doc/blob/main/source/general/startavmfromasnapshot",     
-       "https://github.com/CloudFerro/cf3-doc/blob/main/source/general/keypairopenstack/keypairopenstack",     
+       "https://github.com/CloudFerro/cf3-doc/blob/main/source/general/keypairopenstack",     
+       "https://github.com/CloudFerro/cf3-doc/blob/main/source/networking/createanetworkwithrouter", 
+       "https://github.com/CloudFerro/kubernetes-doc/blob/main/source/How-to-Create-a-Kubernetes-Cluster-Using-Eumetsat-Elasticity-OpenStack-Magnum",
    
  ]
 )
