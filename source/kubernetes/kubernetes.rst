@@ -1,8 +1,5 @@
-Welcome to WAW3-1 & Kubernetes documentation!
+Kubernetes
 =============================================
-
-Guide:
-^^^^^^
 
 .. toctree::
    :maxdepth: 2
@@ -22,11 +19,3 @@ Guide:
    How-to-Use-Security-Groups-to-Tighten-Security-Using-Eumetsat-Elasticity-OpenStack-Magnum
    How-to-Create-and-Return-a-Floating-IP-Address-on-Eumetsat-Elasticity-OpenStack-Magnum
    Volume-based-vs-Ephemeral-based-Storage-for-Kubernetes-Clusters-on-Eumetsat-Elasticity-OpenStack-Magnum
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
