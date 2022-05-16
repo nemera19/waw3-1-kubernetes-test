@@ -41,14 +41,31 @@ templates_path = ["_templates"]
 exclude_patterns = []
 
 urls_dict = get_files(
-    [
-       "https://github.com/CloudFerro/cf3-doc/tree/main/source/datavolume/extendvolumelinux",
-       "https://github.com/CloudFerro/cf3-doc/blob/main/source/general/startavmfromasnapshot",     
-       "https://github.com/CloudFerro/cf3-doc/blob/main/source/general/keypairopenstack",     
-       "https://github.com/CloudFerro/cf3-doc/blob/main/source/networking/createanetworkwithrouter", 
-       "https://github.com/CloudFerro/kubernetes-doc/blob/main/source/How-to-Create-a-Kubernetes-Cluster-Using-Eumetsat-Elasticity-OpenStack-Magnum",
-   
- ]
+    {
+        "kubernetes": [
+            "https://github.com/nemera19/waw3-1-kubernetes-test/tree/main/source/kubernetes",
+            "https://github.com/CloudFerro/kubernetes-doc/blob/main/source/How-to-Create-a-Kubernetes-Cluster-Using-Eumetsat-Elasticity-OpenStack-Magnum",
+            "https://github.com/CloudFerro/kubernetes-doc/blob/main/source/How-to-Create-a-Kubernetes-Cluster-Template-Using-Eumetsat-Elasticity-OpenStack-Magnum",
+            "https://github.com/CloudFerro/kubernetes-doc/blob/main/source/How-To-Install-OpenStack-and-Magnum-Clients-for-Command-Line-Interface-to-Eumetsat-Elasticity-Horizon",
+        ],
+        "faq": [
+            "https://github.com/nemera19/waw3-1-kubernetes-test/tree/main/source/faq",
+            "https://github.com/CloudFerro/cf3-doc/blob/main/source/datavolume/accessusings3cmd",     
+            "https://github.com/CloudFerro/cf3-doc/blob/main/source/datavolume/attachvolumetovmlessthan2tb",   
+            "https://github.com/CloudFerro/cf3-doc/blob/main/source/datavolume/cannotaccesseodata",  
+            "https://github.com/CloudFerro/cf3-doc/blob/main/source/datavolume/ephemeralvspersistentstorage",
+            "https://github.com/CloudFerro/cf3-doc/blob/main/source/datavolume/exportvolumenfs",
+            "https://github.com/CloudFerro/cf3-doc/blob/main/source/datavolume/exportvolumeovernfs",  
+            "https://github.com/CloudFerro/cf3-doc/blob/main/source/datavolume/extendvolumelinux",  
+            "https://github.com/CloudFerro/cf3-doc/blob/main/source/datavolume/howmanyobjectsobjectstorage",  
+            "https://github.com/CloudFerro/cf3-doc/blob/main/source/datavolume/howtoaccesseodata",  
+            "https://github.com/CloudFerro/cf3-doc/blob/main/source/datavolume/howtomountdriveoverssh",  
+            "https://github.com/CloudFerro/cf3-doc/blob/main/source/datavolume/mountobjectstoragelinux",  
+            "https://github.com/CloudFerro/cf3-doc/blob/main/source/datavolume/moveadatavolume",  
+            "https://github.com/CloudFerro/cf3-doc/blob/main/source/datavolume/volumesnapshotinheritanceanditsconsequences",  
+            "https://github.com/CloudFerro/cf3-doc/blob/main/source/datavolume/volumesnapshot",  
+        ],
+    }
 )
 
 html_context = {
